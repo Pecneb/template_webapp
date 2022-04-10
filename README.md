@@ -1,3 +1,5 @@
 # template_webapp
 
-This is a template webapp made with flask. Whenever i need to refresh my memory of web app, flask programming, I can come back here.
+This is an example webapp.
+Can be used as a template for webapp projects.
+More documentation at flask.palletsprojects.com
